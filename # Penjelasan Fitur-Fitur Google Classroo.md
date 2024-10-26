@@ -5,6 +5,7 @@
 ## 1. Stream
 - **Fungsi**: Sebagai ruang utama untuk pengumuman, diskusi, dan pembaruan dari guru kepada siswa.
 - **Cara Menggunakan**: Guru dapat menambahkan pengumuman, memberi komentar, atau menjawab pertanyaan siswa melalui tab ini. Siswa juga bisa menanggapi pengumuman atau bertanya mengenai materi yang disampaikan di kelas.
+- 
 ![classroom](img//stream.png)
 
 ## 2. Classwork
